@@ -1,6 +1,6 @@
-.toggle{
-  display: flex;
-  background-color: lightcoral;
+.submit{
+  text-align: center;
+   background-color: lightcoral;
   width: 8em;
   height: 3em;
   border: transparent;

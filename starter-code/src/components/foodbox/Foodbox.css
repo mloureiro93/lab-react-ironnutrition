@@ -1,0 +1,28 @@
+.media{
+  display: flex;
+  border: 1px solid black;
+  margin: 1em;
+  border-radius: 0.3em;
+  width:600px;
+  padding: 0;
+
+}
+
+.img-thumbnail{
+  width: 10%;
+  height: 10%
+}
+
+/* .media-body {
+  display: flex;
+ 
+} */
+
+.form-control{
+  border: transparent
+}
+
+.btn{
+  width: 3.5em;
+  height: 3em;
+}
